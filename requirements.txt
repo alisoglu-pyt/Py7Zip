@@ -1,0 +1,5 @@
+# Runtime dependencies
+py7zr>=1.0.0,<2
+
+# Optional: enables JPEG/BMP/WebP previews and nicer image scaling.
+# pillow>=10.0
