@@ -24,11 +24,11 @@ klasik-modern** bir Tkinter arayüzüyle sunmaktır.
 ## Ekran görüntüleri
 
 <p align="center">
-  <img src="build/screenshot.png" alt="Py7-Zip ana pencere" width="760">
+  <img src="/screenshot.png" alt="Py7-Zip ana pencere" width="760">
 </p>
 
 <p align="center">
-  <img src="build/screenshot-progress.png" alt="Py7-Zip ana pencere Koyu Tema" width="360">
+  <img src="/screenshot-progress.png" alt="Py7-Zip ana pencere Koyu Tema" width="360">
   
 </p>
 
