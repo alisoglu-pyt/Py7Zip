@@ -28,7 +28,7 @@ klasik-modern** bir Tkinter arayüzüyle sunmaktır.
 </p>
 
 <p align="center">
-  <img src="/screenshot-progress.png" alt="Py7-Zip ana pencere Koyu Tema" width="360">
+  <img src="/screenshot-progress.png" alt="Py7-Zip ana pencere Koyu Tema" width="760">
   
 </p>
 
