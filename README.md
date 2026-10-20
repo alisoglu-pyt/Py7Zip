@@ -28,8 +28,8 @@ klasik-modern** bir Tkinter arayüzüyle sunmaktır.
 </p>
 
 <p align="center">
-  <img src="build/screenshot-progress.png" alt="İlerleme penceresi" width="360">
-  <img src="build/screenshot-split.png" alt="Parçalı arşiv oluşturma" width="360">
+  <img src="build/screenshot-progress.png" alt="Py7-Zip ana pencere Koyu Tema" width="360">
+  
 </p>
 
 ---
