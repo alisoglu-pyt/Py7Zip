@@ -246,7 +246,7 @@ tests/                   Motor, diyalog, arayüz ve ekran görüntüsü testleri
 
 ## Sınırlamalar
 
-- RAR, ISO, CAB, MSI gibi biçimler **desteklenmez** (7-Zip'in C++ codec'leri
+- ISO, CAB, MSI gibi biçimler **desteklenmez** (7-Zip'in C++ codec'leri
   gerekir).
 - zip yazarken parola şifrelemesi yoktur.
 - 7z ve sıkıştırılmış tar arşivlerinde ekleme/silme, arşivi yeniden oluşturur.
